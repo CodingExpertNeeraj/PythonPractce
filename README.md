@@ -1,2 +1,2 @@
-# PythonPractce
+# PythonPractice
 Its only for practice
