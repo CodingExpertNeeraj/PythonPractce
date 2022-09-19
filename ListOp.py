@@ -17,3 +17,19 @@ l3 = l1+['welcome','guys']
 print(l3)
 # replication opreator
 print(l1 *3)
+# comparison opreators
+l4 = [ 12,13,41,32]
+l5 =[21,13,76,49]
+l6 = [67,34,32,13]
+print(l4 == l5)
+
+# float a,b
+# a = 98
+# input(a)
+# b = (a - 32)*5/9
+# print(b)
+
+x = 6
+y = 2
+z = x << 1 > 5
+print(z)
