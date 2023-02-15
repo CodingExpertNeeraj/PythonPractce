@@ -9,5 +9,4 @@ print(type(b))  #string
 c = 3.14
 print(type(c))  #float
 
-d = true:
 
